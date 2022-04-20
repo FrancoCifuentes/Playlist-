@@ -1,4 +1,148 @@
-img{
-    width: 50px;
-    height: 50px;
+h1{
+    color: #313b47;
+}
+img {
+    width: 80px;
+    height: 80px;
+}
+
+#logogrande {
+    width: 150px;
+    height: 150px;
+}
+
+body {
+    background-image: url(https://fondosmil.com/fondo/23471.jpg);
+    background-color: #A73E93;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+th {
+    font-weight: bold;
+    background-color: #e61dbdea;
+}
+
+td {
+    color: #5d6d81;
+    border: 0.2px solid rgb(9, 187, 231);
+    font-weight: bold;
+    background-color: #2c222a00;
+}
+
+p {
+    font-weight: bolder;
+    color: #5d6d81;
+    font-style: italic;
+    font-size: 30px;
+}
+
+main {
+    /*background-color:;*/
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+}
+
+tr {
+    border: 0.2px solid turquoise;
+    text-align: center
+}
+
+/*Identified main: start*/
+
+#africa {
+    background-image: url(../assets/img/africa-bkg.png);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#dime {
+    background-image: url(https://www.wallpapertip.com/wmimgs/90-909547_3840x2160-4k-wallpaper-lovely-4k-minimalist-wallpaper-minimalist.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+#entrenosrmx {
+    background-image: url(https://fondosmil.com/fondo/46316.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#mamienelgps {
+    background-image: url(https://www.todofondos.net/wp-content/uploads/4k-fondo-de-pantalla-minimalista-brujo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+#ojoscolorau {
+    background-image: url(https://www.xtrafondos.com/wallpapers/geometria-3d-3586.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;}
+
+#pikete {
+    background-image: url(https://www.todofondos.net/wp-content/uploads/volcado-de-papel-tapiz-4k-minimalista-geometrico-listo-para-la-entrega-de-mi-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;}
+
+#pintao {
+    background-image: url(https://www.wallpaperkiss.com/wimg/b/115-1152114_big.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#ricocuandomuera {
+    background-image: url(https://www.wallpapertip.com/wmimgs/14-144030_the-elder-scrolls-v-minimalist-skyrim-wallpaper-4k.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#sinfrenos {
+    background-image: url(../assets/img/sinfrenos-bkg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#siquierenfrontear {
+    background-image: url(../assets/img/siqfront-bkg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/*Identified main: end*/
+
+a {
+     color: #5d6d81;
+}
+a:hover {
+    color: #5d6d81;
+}
+
+a:visited {
+    color: #5d6d81;
 }
